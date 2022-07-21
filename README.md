@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Esybekee
+- 👋 Hi, I am Chioma Ezenwoye
 - 👀 I’m interested in ...Software development and data science
 - 🌱 I’m currently a student at the University of the People 
 - 💞️ I’m looking to collaborate with like minds beginners at programming world
